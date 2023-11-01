@@ -9,9 +9,9 @@
 
 - 🔭 Je travail actuellement sur le projet : **SynthBot Corp**
 
-- 🚀 J'apprends actuellement a faire un site web : **SynthBot Corp**
+- 🚀 J'apprends actuellement a faire un site web.
 
-- 📫 Tu peux me contacter via cette adresse-mail :**Kirito9999.contact@gmail.com**
+- 📫 Tu peux me contacter via cette adresse-mail : **Kirito9999.contact@gmail.com**
 
 <h3 align="left">Mes réseaux sociaux :</h3>
 <p align="left">
