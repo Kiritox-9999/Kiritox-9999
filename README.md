@@ -11,9 +11,9 @@
 
 - 🚀 J'apprends actuellement a faire un site web : **SynthBot Corp**
 
-- 📫 How to reach me **Kirito9999.contact@gmail.com**
+- 📫 Tu peux me contacter via cette adresse-mail :**Kirito9999.contact@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes réseaux sociaux :</h3>
 <p align="left">
 <a href="https://twitter.com/kirito_99990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirito_99990" height="30" width="40" /></a>
 <a href="https://discord.gg/kirito_9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kirito_9999" height="30" width="40" /></a>
